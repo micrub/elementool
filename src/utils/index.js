@@ -6,4 +6,5 @@ const dbg = debug(NS);
 
 export default {
   dbg,
+  NS,
 };
