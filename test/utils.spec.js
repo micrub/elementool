@@ -1,3 +1,5 @@
+import chai from 'chai/register-expect';
+
 import utils from '../src/utils';
 
 let {dbg} = utils;
