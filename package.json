@@ -1,0 +1,21 @@
+{
+  "name": "elementool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "prettier": "^1.16.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}

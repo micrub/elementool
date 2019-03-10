@@ -1,10 +1,9 @@
-
 import debug from 'debug';
 
 const NS = 'elementool';
 
-const dbg = debug(NS)
+const dbg = debug(NS);
 
 export default {
-  dbg
-}
+  dbg,
+};

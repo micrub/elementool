@@ -80,3 +80,6 @@ typings/
 .dynamodb/
 
 .bit/
+.bitmap
+
+dist/
